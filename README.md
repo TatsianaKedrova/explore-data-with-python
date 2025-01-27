@@ -1,1 +1,1 @@
-Educational am=nd training project to master numpy and pandas packages. 
+Educational and training project to master numpy and pandas packages. 
